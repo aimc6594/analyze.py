@@ -60,7 +60,7 @@ def analyze_css(css_folder_path):
                                 css_data['tags'][tag_selector] = set()
                             css_data['tags'][tag_selector].add(css_file)
 
-    # Convert sets to lists to ensure JSON compatibility
+    # Convierte conjuntos en listas para garantizar la compatibilidad con JSON
     for selector_type in css_data:
         for selector in css_data[selector_type]:
             css_data[selector_type][selector] = list(css_data[selector_type][selector])
