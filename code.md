@@ -53,7 +53,7 @@ def analyze_css(css_folder_path):
                                 css_data['ids'][id_name] = set()
                             css_data['ids'][id_name].add(css_file)
                     else:
-                        # Check for tag selectors
+                        # Compruebe los selectores de etiquetas
                         tag_selector = line.split('{')[0].strip()
                         if tag_selector and not tag_selector.startswith('.') and not tag_selector.startswith('#'):
                             if tag_selector not in css_data['tags']:
