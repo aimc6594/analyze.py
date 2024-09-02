@@ -112,9 +112,10 @@ def main():
 
     save_to_json(active_data, 'active.json')
     save_to_json(inactive_data, 'inactive.json')
-```
+
 
     print("Proceso completado.")
 
 if __name__ == '__main__':
     main()
+```
