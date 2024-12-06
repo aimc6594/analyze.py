@@ -45,3 +45,8 @@ Este script en Python está diseñado para analizar archivos HTML y CSS, y combi
 
 - **`active.json`**: Contiene elementos HTML y selectores CSS que están en uso en la página.
 - **`inactive.json`**: Contiene elementos HTML y selectores CSS que no están en uso en la página.
+
+| Archivo          | Enlace de descarga                                                                 |
+|------------------|------------------------------------------------------------------------------------|
+| Descargar script | [analyze.py](https://github.com/aimc6594/analyze.py/blob/main/analyze.py)         |
+
