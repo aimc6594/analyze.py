@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Aimc6594 Dev
 description: Este script en Python está diseñado para analizar archivos HTML y CSS, y combinar los resultados para identificar y clasificar los elementos activos e inactivos en una página web.
-logo: logo.png
+logo: https://legacy.python.org/community/logos/python-powered-h-100x130.png
 show_downloads: false
