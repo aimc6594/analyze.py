@@ -48,5 +48,5 @@ Este script en Python está diseñado para analizar archivos HTML y CSS, y combi
 
 | Archivo          | Enlace de descarga                                                                 |
 |------------------|------------------------------------------------------------------------------------|
-| Descargar script | [analyze.py](https://github.com/aimc6594/analyze.py/blob/main/analyze.py)         |
+| Descargar script | [analyze.py](https://github.com/aimc6594/analyze.py/blob/1bbfb985aee8c9d89091964ebe30a1d4e2d991f9/analyze.py)         |
 
